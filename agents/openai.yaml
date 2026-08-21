@@ -1,0 +1,6 @@
+interface:
+  display_name: "动态表情包工坊"
+  short_description: "从角色参考图生成统一表情图、H3 动画视频与循环 GIF 成品"
+  default_prompt: "Use $dynamic-sticker-pack to turn my character reference into a consistent animated sticker pack."
+policy:
+  allow_implicit_invocation: true
